@@ -1,0 +1,9 @@
+.header-bg{
+    width: 52%;
+    height: 100px;
+    background: #2B7AF1;
+    position: absolute;
+    z-index: -1;
+    right: 0;
+    border-radius:  0px 0px 0px 10px;
+}
